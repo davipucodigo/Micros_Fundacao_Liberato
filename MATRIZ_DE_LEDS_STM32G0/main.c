@@ -52,6 +52,8 @@ int main () {
 	TIM14->ARR=(100); //numero de corte
 	TIM14->CR1=TIM_CR1_CEN; //ativa o timer
 
+	// Fout = Fclock / PSC / ARR
+
 	while (1) {
 
 		sensor = GPIOD->IDR & 0b1; // le botao
@@ -72,3 +74,4 @@ int main () {
 		}
 	}
 }
+
