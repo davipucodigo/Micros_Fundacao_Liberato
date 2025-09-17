@@ -1,4 +1,4 @@
-# Microsprocessados
-## Fundacao Escola Tecnica Liberato Salzano Vieira da Cunha 
-### Davi Sant`Anna
-Este repositório tem como proposito guardar e expor trabalhos feitos na materia de microprocessados do professor Marcos da Escola Fundação Escola Técnica Liberato Salzano Vieira da Cunha.
+<h2> Microsprocessados</h2>
+<img width="200" src="https://www.liberato.com.br/wp-content/uploads/2019/09/logo.png">
+<h3> Davi Sant`Anna </h3>
+Este repositório tem como proposito guardar e expor trabalhos feitos na matéria de microprocessados do professor Marcos Zuccolotto da Escola Fundação Escola Técnica Liberato Salzano Vieira da Cunha.
