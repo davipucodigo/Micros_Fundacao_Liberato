@@ -21,6 +21,6 @@ para que a leitura efetue o Debounce. A ideia é que a leitura do pino ocorra em
 <p>Para fins de praticidade assumimos um PSC de 16 para que o clock seja dividido e fique 1MHz.</p>
 <img src="demonstracao.png"><br>
 <h3>Codigo Linha 10 e 14</h3>
-<a href="main.c"><img src="code_example.png"></a>
+<a href="https://github.com/davipucodigo/Micros_Fundacao_Liberato/blob/main/L%C3%93GICA_DE_DISPLAY_COM_BORDA_STM32G0/main.c#L13"><img src="code_example.png"></a>
 
 
