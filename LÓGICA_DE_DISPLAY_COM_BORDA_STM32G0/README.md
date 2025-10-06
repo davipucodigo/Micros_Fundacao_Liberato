@@ -10,6 +10,7 @@ indicando um estouro.</p>
 <h3>Montagem</h3>
 <p>Para montagem usaremos 2 botões push configurados em pull-down, 1 led ativo em Alto e um display de 7 segmentos cátodo comum.</p>
 <img src="esquema_btn_display.png">
+<h1>Debounce</h1>
 <h3>Determinar Frequência de Saída</h3>
 <p>Neste Exemplo vamos calcular para que a Frêquencia do periférico TIM14 seja tal que os eventos ocorram em intervalos de 20ms
 para que a leitura efetue o Debounce. A ideia é que a leitura do pino ocorra em intervalos que não detectem os picos indesejados da trepidação do botão(Bounce) efetuando assim o Debounce.</p>
