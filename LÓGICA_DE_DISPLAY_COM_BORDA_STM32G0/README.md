@@ -6,5 +6,5 @@ Quando a contagem atingir um dos extremos, (0 ou 9), a contagem fica
 limitada neste valor e o led correspondente ao ponto deve ser acionado,
 indicando um estouro.</p>
 <h3>Pinout STM32G0</h3>
-<img src="../MATRIZ_DE_LEDS_STM32G0/NUCLEO-G070RB_pinout.png">
+<img src="../source/NUCLEO-G070RB_pinout.png">
 <h3>Esquemático</h3>
