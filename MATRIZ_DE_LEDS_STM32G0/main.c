@@ -31,7 +31,7 @@ int main () {
 
 	//CLOCK GERAL
 	RCC->IOPENR = 0x3f;
-
+ 
 	//GPIOD ENTRADA Botão pull-up externo
 	GPIOD->MODER &= 0b00;
 
