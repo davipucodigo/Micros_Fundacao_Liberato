@@ -22,5 +22,7 @@ para que a leitura efetue o Debounce. A ideia é que a leitura do pino ocorra em
 <img src="demonstracao.png"><br>
 <h3>Codigo Linha 10 e 14</h3>
 <a href="https://github.com/davipucodigo/Micros_Fundacao_Liberato/blob/main/L%C3%93GICA_DE_DISPLAY_COM_BORDA_STM32G0/main.c#L13"><img src="code_example.png"></a>
+<br><br><br>
+<h1>Detecção de Borda de Subida OU Descida</h1>
 
 
