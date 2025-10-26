@@ -16,5 +16,6 @@ Exemplo: PiscaLeds(GPIOA, 0, 1, TIM10);
 <p>Para começar então criamos 2 arquivos separados, .c e .h, estes serão a nossa biblioteca que terá a função criada para apenas implementar e poder alterar os perifericos usados. Como se vê aqui:</p>
 <img src="video/implementacaoexe.png">
 <br>
-<a href="Codigo/">Aperte aqui para ter acesso ao codigo</a>
-
+<a href="Codigo/">Aperte aqui para vê o codigo</a>
+<h1>Esquema</h1>
+<img src="video/Captura de tela 2025-10-26 161833.png">
